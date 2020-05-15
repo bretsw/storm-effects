@@ -14,5 +14,5 @@ The events in the database start in the year 1950 and end in November 2011. In t
 
 Data analysis addresses the following questions:
 
-- Across the United States, which types of events (as indicated in the EVTYPE\color{red}{\verb|EVTYPE|}EVTYPE variable) are most harmful with respect to population health?
+- Across the United States, which types of events (as indicated in the EVTYPE variable) are most harmful with respect to population health?
 - Across the United States, which types of events have the greatest economic consequences?
