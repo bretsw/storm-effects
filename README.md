@@ -1,18 +1,5 @@
 # Storm Effects
 
-## Introduction
+This report examines six decades (1950-2011) of storm event data from the U.S. [National Oceanic and Atmospheric Administration](https://www.noaa.gov/) (NOAA) Storm Database. The purpose of this study is to answer two questions related to the effects of storm events. Both questions consider storm events at a national scale in the United States. The first question pertains to population health effects of storms, as defined by injuries and fatalities. The total number of injuries and fatalities from tornadoes, heat, wind, flood, thunderstorms, and winter storms rate the highest need for concern. The second question pertains to economic consequences of storms, as defined by crop damage and property damage. The total dollar amount of crop damage and property damage from floods, wind, tornadoes, and hail rate the highest need for concern. Attention should be given to the three storm types on both lists: tornadoes, wind, and floods.
 
-Storms and other severe weather events can cause both public health and economic problems for communities and municipalities. Many severe events can result in fatalities, injuries, and property damage, and preventing such outcomes to the extent possible is a key concern.
-
-This project involves exploring the U.S. National Oceanic and Atmospheric Administration's (NOAA) [Storm Events Database](https://www.ncdc.noaa.gov/stormevents/). This database tracks characteristics of major storms and weather events in the United States, including when and where they occur, as well as estimates of any fatalities, injuries, and property damage.
-
-## Data
-
-The events in the database start in the year 1950 and end in November 2011. In the earlier years of the database there are generally fewer events recorded, most likely due to a lack of good records. More recent years should be considered more complete.
-
-## Analysis
-
-Data analysis addresses the following questions:
-
-- Across the United States, which types of events (as indicated in the EVTYPE variable) are most harmful with respect to population health?
-- Across the United States, which types of events have the greatest economic consequences?
+The published report may be viewed at https://rpubs.com/bretsw/storm-effects
